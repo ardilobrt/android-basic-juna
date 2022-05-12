@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Android Basic Juna</string>
+    <string name="register">Daftar</string>
+    <string name="login">Masuk</string>
+    <string name="email_phone">Email atau Nomor Telepon</string>
+    <string name="phone_exp">Contoh: 081228900972</string>
+    <string name="google">Google</string>
+    <string name="atau">atau daftar dengan</string>
+</resources>
